@@ -9,14 +9,14 @@
     },
     {
       "id": 2,
-      "message": "changed hhd on workstation 805",
-      "attention": false,
+      "message": "changed hhd on workstation 50",
+      "attention": true,
       "date": "03-10-2019",
       "tech": "Sam suite"
     },
     {
       "id": 3,
-      "message": "changed hhd on workstation 805",
+      "message": "changed hhd on workstation 908",
       "attention": false,
       "date": "03-10-2019",
       "tech": "Sam suite"
