@@ -4,10 +4,6 @@ import Techs from './Techs';
 
 const ListTechModal = () => {
 
-    const [firstName,setFirstName]= useState('');
-    const [lastName,setLastName]= useState('');
-    
-    
     return (
         <div id="tech-list-modal" className="modal">
             <div className="modal-content">
